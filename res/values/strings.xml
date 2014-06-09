@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApiProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint">Type in a key word</string>
+    <string name="search_label">Search</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="button_search_name">Search</string>
+    <string name="title_activity_restaurant_detail">RestaurantDetail</string>
+
+</resources>
